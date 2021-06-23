@@ -125,5 +125,12 @@ Performance on WIDER FACE and MAFA datasets
     <td>46.3</td>
     <td>91.4</td>
   </tr>
+  <tr>
+    <td>CenterFace</td>
+    <td>90.02</td>
+    <td>85.4</td>
+    <td>54.1</td>
+    <td>91.5</td>
+  </tr>
 </table>
 
